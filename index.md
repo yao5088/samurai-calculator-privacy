@@ -1,62 +1,127 @@
-# Privacy Policy for Samurai Calculator
-**Last updated:** March 10, 2026
+# Privacy Policy / 隐私政策
 
-## Introduction
-Welcome to **Samurai Calculator** ("the App"). We respect your privacy and are committed to protecting your personal data. This privacy policy will inform you as to how we look after your personal data when you use our App.
+## English
 
-## 1. Information We Collect
-The App itself does not require registration and does not actively collect personally identifiable information (PII) such as your name, address, or phone number.
-However, we use third-party services that may collect information used to identify you.
+**Samurai Calculator** respects your privacy.
 
-### Third-Party Services
-We use the following third-party services which may collect data:
-*   **Google AdMob:** To display advertisements. AdMob may collect device identifiers (such as Advertising ID), location data, and crash logs to serve personalized ads.
-*   **Google Play Services:** To manage in-app purchases (IAP) and app distribution.
+This app does not directly collect personal information such as your name, email address, phone number, or home address.
 
-## 2. In-App Purchases (IAP)
-The App offers in-app purchases (e.g., "Remove Ads"). All transactions are processed securely through Google Play's billing system. We do not store your credit card or financial information on our servers.
+However, the app uses third-party services that may collect certain technical data automatically.
 
-## 3. Data Usage
-We use the collected data for the following purposes:
-*   To provide and maintain the App's functionality (e.g., verifying your "Remove Ads" purchase).
-*   To display advertisements (via AdMob) to support the free version of the App.
-*   To improve App performance and fix bugs.
+### Advertising
 
-## 4. Children’s Privacy
-Our App is intended for general audiences and does not knowingly collect data from children under the age of 13.
+Samurai Calculator uses **Google AdMob** to display ads.
 
-## 5. Contact Us
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
-**Email:** allenbuyao@gmail.com
+Google AdMob may collect and process certain data, including:
+
+- Device identifiers (such as Advertising ID)
+- App interaction data
+- Ad performance data
+- Diagnostic and usage data
+
+This data may be used for:
+
+- Showing ads
+- Measuring ad performance
+- Improving advertising services
+
+For more information about how Google uses data, please visit:
+
+- https://policies.google.com/technologies/ads
+- https://policies.google.com/privacy
+
+### In-App Purchases
+
+Samurai Calculator offers an optional **Remove Ads** purchase.
+
+Payments and purchase processing are handled by **Google Play Billing**.  
+Samurai Calculator does not directly collect or store your payment card details.
+
+For more information, please visit:
+
+- https://payments.google.com/payments/apis-secure/get_legal_document?ldo=0&ldt=privacynotice
+
+### Data Security
+
+We do not directly store personal user information on our own servers.
+
+Third-party services used by the app, such as Google AdMob and Google Play, may process data securely in transit.
+
+### Children’s Privacy
+
+Samurai Calculator is not directed to children under the age of 13.
+
+### Changes to This Policy
+
+This Privacy Policy may be updated from time to time.  
+Any changes will be reflected on this page.
+
+### Contact
+
+If you have any questions about this Privacy Policy, you may contact us at:
+
+**allenbuyao@gmail.com**
 
 ---
 
-# Samurai Calculator 隱私權政策
-**最後更新日期：** 2026年3月10日
+## 中文
 
-## 簡介
-歡迎使用 **Samurai Calculator**（以下簡稱「本應用」）。我們非常重視您的隱私與數據安全。本政策說明我們如何在您使用本應用時處理信息。
+**Samurai Calculator** 尊重您的隐私。
 
-## 1. 我們收集什麼信息？
-本應用不要求註冊登錄，不主動收集您的個人身份信息（如姓名、地址、電話等）。
-但是，我們使用第三方服務，這些服務可能會收集用於識別您身份的信息：
+本应用不会直接收集您的个人信息，例如姓名、电子邮箱、电话号码或住家地址。
 
-### 第三方服務
-*   **Google AdMob：** 用於展示廣告。AdMob 可能會收集設備標識符（如廣告 ID）、位置信息和崩潰日誌，以提供個性化廣告服務。
-*   **Google Play Services：** 用於管理應用內購買 (IAP) 和應用分發。
+但是，本应用使用第三方服务，这些服务可能会自动收集某些技术性数据。
 
-## 2. 應用內購買 (IAP)
-本應用提供應用內購買項目（例如「移除廣告」）。所有交易均通過 Google Play 的結算系統安全處理。我們不會在服務器上存儲您的信用卡或財務信息。
+### 广告
 
-## 3. 數據用途
-我們將收集的數據用於以下目的：
-*   提供和維護應用功能（例如：驗證您的「移除廣告」購買狀態）。
-*   展示廣告（通過 AdMob）以支持本應用的免費版本。
-*   改善應用性能並修復錯誤。
+Samurai Calculator 使用 **Google AdMob** 来展示广告。
 
-## 4. 兒童隱私
-本應用面向一般大眾，不會有意收集 13 歲以下兒童的數據。
+Google AdMob 可能会收集和处理某些数据，包括：
 
-## 5. 聯繫我們
-如果您對本隱私政策有任何疑問或建議，請隨時聯繫我們：
-**電子郵件：** allenbuyao@gmail.com
+- 设备识别码（例如 Advertising ID）
+- 应用互动数据
+- 广告表现数据
+- 诊断与使用数据
+
+这些数据可能会用于：
+
+- 展示广告
+- 衡量广告效果
+- 改善广告服务
+
+如需了解 Google 如何使用这些数据，请参考：
+
+- https://policies.google.com/technologies/ads
+- https://policies.google.com/privacy
+
+### 应用内购买
+
+Samurai Calculator 提供可选的 **Remove Ads（移除广告）** 购买项目。
+
+付款与购买流程由 **Google Play Billing** 处理。  
+Samurai Calculator 不会直接收集或储存您的银行卡资料。
+
+更多信息请参考：
+
+- https://payments.google.com/payments/apis-secure/get_legal_document?ldo=0&ldt=privacynotice
+
+### 数据安全
+
+我们不会在自己的服务器上直接储存用户的个人信息。
+
+本应用使用的第三方服务，例如 Google AdMob 与 Google Play，可能会以安全加密的方式处理相关数据。
+
+### 儿童隐私
+
+Samurai Calculator 并非面向 13 岁以下儿童设计。
+
+### 政策更新
+
+本隐私政策可能会不定期更新。  
+任何更新都会显示在本页面。
+
+### 联系方式
+
+如果您对本隐私政策有任何疑问，可以通过以下邮箱联系我们：
+
+**allenbuyao@gmail.com**
